@@ -1,0 +1,32 @@
+com/platzi/market/persistencia/crud/ProductoCrudRepository.java
+ com.platzi.market.persistencia.crud.ProductoCrudRepository
+com/platzi/market/persistencia/entity/Producto.java
+ com.platzi.market.persistencia.entity.Producto
+com/platzi/market/domain/service/ProductService.java
+ com.platzi.market.domain.service.ProductService
+com/platzi/market/PlatziMarketApplication.java
+ com.platzi.market.PlatziMarketApplication
+com/platzi/market/domain/repository/ProductRepository.java
+ com.platzi.market.domain.repository.ProductRepository
+com/platzi/market/domain/Product.java
+ com.platzi.market.domain.Product
+com/platzi/market/persistencia/entity/Categoria.java
+ com.platzi.market.persistencia.entity.Categoria
+com/platzi/market/persistencia/entity/ProductoRepositori.java
+ com.platzi.market.persistencia.entity.ProductoRepositori
+com/platzi/market/persistencia/entity/Cliente.java
+ com.platzi.market.persistencia.entity.Cliente
+com/platzi/market/persistencia/entity/ComprasProductoPK.java
+ com.platzi.market.persistencia.entity.ComprasProductoPK
+com/platzi/market/persistencia/mapper/CategoryMapper.java
+ com.platzi.market.persistencia.mapper.CategoryMapper
+com/platzi/market/persistencia/entity/Compra.java
+ com.platzi.market.persistencia.entity.Compra
+com/platzi/market/persistencia/entity/ComprasProducto.java
+ com.platzi.market.persistencia.entity.ComprasProducto
+com/platzi/market/domain/Category.java
+ com.platzi.market.domain.Category
+com/platzi/market/persistencia/mapper/ProductMapper.java
+ com.platzi.market.persistencia.mapper.ProductMapper
+com/platzi/market/web/controller/ProductController.java
+ com.platzi.market.web.controller.ProductController
